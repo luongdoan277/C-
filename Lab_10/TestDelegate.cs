@@ -21,15 +21,5 @@ namespace AP_16
         {
             return num;
         }
-        //static void Main(string[] args)
-        //{
-        //    Numberchange nc;
-        //    Numberchange nc1 = new Numberchange(AddNum);
-        //    Numberchange nc2 = new Numberchange(MultNum);
-        //    nc1(1);
-        //    Console.WriteLine("Value of Num:{0}", getNum());
-        //    nc2(2);
-        //    Console.WriteLine("Value of Num:{0}", getNum());
-        //}
     }
 }
